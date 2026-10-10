@@ -7,6 +7,7 @@ import Showcase from "@/components/Showcase";
 import Charts from "@/components/Charts";
 import Methodology from "@/components/Methodology";
 import Developers from "@/components/Developers";
+import ShareableCharts from "@/components/ShareableCharts";
 
 function Hero() {
   const { t } = useLang();
@@ -91,6 +92,7 @@ export default function Home() {
         <Methodology />
         <Developers />
         <Downloads />
+        <ShareableCharts projectKey="shortages" />
       </main>
       <Footer />
     </>
