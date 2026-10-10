@@ -2,6 +2,10 @@
 
 Each chart is hand-built SVG (no chart library), computed from src/lib JSONs. Numbers verified against the computed files.
 
+**What "Tier 3" means:** Tier 3 is Health Canada's critical tier: the shortages with the greatest potential impact on the drug supply and health care system, assigned by the federal-provincial Tier Assignment Committee. Every "Tier 3" below means a critical shortage.
+
+**FR :** Le niveau 3 est le niveau critique de Santé Canada : les pénuries ayant le plus grand impact potentiel sur l'approvisionnement en médicaments et le système de soins de santé, attribuées par le comité fédéral-provincial d'attribution des niveaux. Chaque mention de « niveau 3 » ci-dessous désigne une pénurie critique.
+
 ---
 
 ## Chart A: Tier 3 quarterly timeline
@@ -21,22 +25,22 @@ Each chart is hand-built SVG (no chart library), computed from src/lib JSONs. Nu
 
 ## Chart B: Company Tier 3 bar ranking, top 10
 
-**Finding as title:** Ten companies hold 49 of the 59 Tier 3 reports. Three hold 29.
+**Finding as title:** Ten companies hold 49 of the 59 critical shortages. Three hold 29.
 
 **Exact computed numbers:** TEVA CANADA LIMITED 13, PFIZER CANADA ULC 9, PHARMASCIENCE INC 7, APOTEX INC 3, ASPEN PHARMACARE CANADA INC. 3, ACCORD HEALTHCARE INC 2, FRESENIUS KABI CANADA LTD 2, BAXTER CORPORATION 2, MINT PHARMACEUTICALS INC 2, SEARCHLIGHT PHARMA INC 2. Sum of top 10: 49. Top 3 = 29 of 59 = 49.2%. 24 companies hold at least one Tier 3 report (companies.json tier3 ranking).
 
 **What the chart shows:** Horizontal bars, rank 1-10, length proportional to tier3_reports, value labels in red numerals. Top 3 bars at full red, 4-10 at 45% opacity.
 
-**EN caption:** "Tier 3 reports by company, top 10"
-**EN note:** "24 companies hold at least one Tier 3 report. The top 10 hold 49 of 59."
-**FR caption:** "Rapports de niveau 3 par entreprise, 10 premières"
-**FR note:** "24 entreprises détiennent au moins un rapport de niveau 3. Les 10 premières en détiennent 49 sur 59."
+**EN caption:** "Critical (Tier 3) shortage reports by company, top 10"
+**EN note:** "Tier 3 is Health Canada's critical tier. 24 companies hold at least one critical shortage report. The top 10 hold 49 of 59."
+**FR caption:** "Rapports de pénurie critique (niveau 3) par entreprise, 10 premières"
+**FR note:** "Le niveau 3 est le niveau critique. 24 entreprises détiennent au moins un rapport de pénurie critique. Les 10 premières en détiennent 49 sur 59."
 
 ---
 
 ## Chart C: ATC class comparison, Tier 3 highlighted
 
-**Finding as title:** Volume and criticality diverge by drug class: nervous system drugs lead with 6,785 reports, but respiratory drugs lead Tier 3 with 15.
+**Finding as title:** Volume and criticality diverge by drug class: nervous system drugs lead with 6,785 reports, but respiratory drugs lead critical shortages with 15.
 
 **Exact computed numbers (atc.json level 1, reports / tier3):** N 6785/13, C 5082/9, J 2072/4, A 2034/0, G 1350/0, L 1249/13, D 1099/0, B 1081/0, M 873/0, R 744/15, S 738/0, V 549/3, H 538/2, P 84/0, U 3/0. Critical shares: R 15/744 = 2.02% (highest), L 13/1249 = 1.04%, N 13/6785 = 0.19%, C 9/5082 = 0.18%.
 
