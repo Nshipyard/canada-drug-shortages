@@ -56,7 +56,7 @@ const ATC_FR: Record<string, string> = {
   R: "Système respiratoire",
   S: "Organes sensoriels",
   V: "Divers",
-  U: "U",
+  U: "Non classé (UNASS)",
 };
 
 function ChartShell({ children, caption }: { children: React.ReactNode; caption: string }) {
