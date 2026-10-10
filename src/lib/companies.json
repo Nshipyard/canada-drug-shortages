@@ -1,0 +1,2152 @@
+{
+  "all": [
+    {
+      "company": "APOTEX INC",
+      "reports": 3633,
+      "tier3_reports": 3,
+      "open_reports": 238,
+      "shortage_days": 765167,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "TEVA CANADA LIMITED",
+      "reports": 3077,
+      "tier3_reports": 13,
+      "open_reports": 240,
+      "shortage_days": 621344,
+      "median_duration_days": 66.0
+    },
+    {
+      "company": "SANDOZ CANADA INCORPORATED",
+      "reports": 2261,
+      "tier3_reports": 1,
+      "open_reports": 53,
+      "shortage_days": 229322,
+      "median_duration_days": 40.0
+    },
+    {
+      "company": "PHARMASCIENCE INC",
+      "reports": 1340,
+      "tier3_reports": 7,
+      "open_reports": 64,
+      "shortage_days": 395797,
+      "median_duration_days": 133.5
+    },
+    {
+      "company": "AURO PHARMA INC",
+      "reports": 878,
+      "tier3_reports": 1,
+      "open_reports": 27,
+      "shortage_days": 169432,
+      "median_duration_days": 80.0
+    },
+    {
+      "company": "MYLAN PHARMACEUTICALS ULC",
+      "reports": 739,
+      "tier3_reports": 0,
+      "open_reports": 24,
+      "shortage_days": 81716,
+      "median_duration_days": 50.0
+    },
+    {
+      "company": "TARO PHARMACEUTICALS INC",
+      "reports": 699,
+      "tier3_reports": 0,
+      "open_reports": 36,
+      "shortage_days": 76497,
+      "median_duration_days": 63.0
+    },
+    {
+      "company": "JAMP PHARMA CORPORATION",
+      "reports": 698,
+      "tier3_reports": 0,
+      "open_reports": 148,
+      "shortage_days": 302225,
+      "median_duration_days": 177.0
+    },
+    {
+      "company": "SANIS HEALTH INC",
+      "reports": 636,
+      "tier3_reports": 0,
+      "open_reports": 65,
+      "shortage_days": 123431,
+      "median_duration_days": 87.0
+    },
+    {
+      "company": "PFIZER CANADA ULC",
+      "reports": 625,
+      "tier3_reports": 9,
+      "open_reports": 35,
+      "shortage_days": 98972,
+      "median_duration_days": 78.0
+    },
+    {
+      "company": "MERCK CANADA INC",
+      "reports": 431,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 28906,
+      "median_duration_days": 27.0
+    },
+    {
+      "company": "SIVEM PHARMACEUTICALS ULC",
+      "reports": 404,
+      "tier3_reports": 0,
+      "open_reports": 18,
+      "shortage_days": 80544,
+      "median_duration_days": 112.0
+    },
+    {
+      "company": "GLAXOSMITHKLINE INC",
+      "reports": 384,
+      "tier3_reports": 1,
+      "open_reports": 5,
+      "shortage_days": 35857,
+      "median_duration_days": 40.5
+    },
+    {
+      "company": "ACCORD HEALTHCARE INC",
+      "reports": 382,
+      "tier3_reports": 2,
+      "open_reports": 91,
+      "shortage_days": 82640,
+      "median_duration_days": 91.0
+    },
+    {
+      "company": "AA PHARMA INC",
+      "reports": 379,
+      "tier3_reports": 1,
+      "open_reports": 25,
+      "shortage_days": 29761,
+      "median_duration_days": 53.0
+    },
+    {
+      "company": "FRESENIUS KABI CANADA LTD",
+      "reports": 361,
+      "tier3_reports": 2,
+      "open_reports": 12,
+      "shortage_days": 27641,
+      "median_duration_days": 61.0
+    },
+    {
+      "company": "PRO DOC LIMITEE",
+      "reports": 353,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 61833,
+      "median_duration_days": 65.0
+    },
+    {
+      "company": "OMEGA LABORATORIES LIMITED",
+      "reports": 351,
+      "tier3_reports": 0,
+      "open_reports": 15,
+      "shortage_days": 45915,
+      "median_duration_days": 53.0
+    },
+    {
+      "company": "SANOFI-AVENTIS CANADA INC",
+      "reports": 306,
+      "tier3_reports": 1,
+      "open_reports": 8,
+      "shortage_days": 21381,
+      "median_duration_days": 47.0
+    },
+    {
+      "company": "BGP PHARMA ULC",
+      "reports": 305,
+      "tier3_reports": 0,
+      "open_reports": 9,
+      "shortage_days": 23415,
+      "median_duration_days": 38.0
+    },
+    {
+      "company": "MARCAN PHARMACEUTICALS INC",
+      "reports": 266,
+      "tier3_reports": 0,
+      "open_reports": 49,
+      "shortage_days": 164249,
+      "median_duration_days": 204.5
+    },
+    {
+      "company": "RANBAXY PHARMACEUTICALS CANADA INC.",
+      "reports": 262,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 54214,
+      "median_duration_days": 138.0
+    },
+    {
+      "company": "SUN PHARMA CANADA INC",
+      "reports": 244,
+      "tier3_reports": 0,
+      "open_reports": 26,
+      "shortage_days": 48216,
+      "median_duration_days": 126.0
+    },
+    {
+      "company": "BAXTER CORPORATION",
+      "reports": 243,
+      "tier3_reports": 2,
+      "open_reports": 5,
+      "shortage_days": 16468,
+      "median_duration_days": 33.0
+    },
+    {
+      "company": "VALEANT CANADA LP/VALEANT CANADA S.E.C.",
+      "reports": 228,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 16730,
+      "median_duration_days": 54.0
+    },
+    {
+      "company": "ASPEN PHARMACARE CANADA INC.",
+      "reports": 215,
+      "tier3_reports": 3,
+      "open_reports": 10,
+      "shortage_days": 18850,
+      "median_duration_days": 46.0
+    },
+    {
+      "company": "BAUSCH HEALTH, CANADA INC.",
+      "reports": 213,
+      "tier3_reports": 1,
+      "open_reports": 6,
+      "shortage_days": 15847,
+      "median_duration_days": 44.0
+    },
+    {
+      "company": "NOVARTIS PHARMACEUTICALS CANADA INC",
+      "reports": 208,
+      "tier3_reports": 0,
+      "open_reports": 5,
+      "shortage_days": 12878,
+      "median_duration_days": 44.0
+    },
+    {
+      "company": "PFIZER CANADA INC",
+      "reports": 183,
+      "tier3_reports": 0,
+      "open_reports": 8,
+      "shortage_days": 37076,
+      "median_duration_days": 64.5
+    },
+    {
+      "company": "STERIMAX INC",
+      "reports": 173,
+      "tier3_reports": 1,
+      "open_reports": 25,
+      "shortage_days": 42358,
+      "median_duration_days": 45.5
+    },
+    {
+      "company": "PURDUE PHARMA",
+      "reports": 159,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 7229,
+      "median_duration_days": 25.5
+    },
+    {
+      "company": "PENDOPHARM DIVISION OF PHARMASCIENCE INC",
+      "reports": 157,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 17791,
+      "median_duration_days": 42.5
+    },
+    {
+      "company": "ELVIUM LIFE SCIENCES",
+      "reports": 151,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 7472,
+      "median_duration_days": 22.0
+    },
+    {
+      "company": "MINT PHARMACEUTICALS INC",
+      "reports": 143,
+      "tier3_reports": 2,
+      "open_reports": 17,
+      "shortage_days": 49224,
+      "median_duration_days": 168.0
+    },
+    {
+      "company": "BIOMED PHARMA",
+      "reports": 141,
+      "tier3_reports": 0,
+      "open_reports": 66,
+      "shortage_days": 246826,
+      "median_duration_days": 594.5
+    },
+    {
+      "company": "ORGANON CANADA INC.",
+      "reports": 126,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 7021,
+      "median_duration_days": 37.0
+    },
+    {
+      "company": "PALADIN LABS INC",
+      "reports": 122,
+      "tier3_reports": 0,
+      "open_reports": 22,
+      "shortage_days": 44633,
+      "median_duration_days": 71.0
+    },
+    {
+      "company": "ALLERGAN INC",
+      "reports": 104,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 16652,
+      "median_duration_days": 33.5
+    },
+    {
+      "company": "GE HEALTHCARE CANADA INC",
+      "reports": 103,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 6079,
+      "median_duration_days": 17.0
+    },
+    {
+      "company": "BAYER INC",
+      "reports": 101,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 10555,
+      "median_duration_days": 51.0
+    },
+    {
+      "company": "ACTAVIS PHARMA COMPANY",
+      "reports": 99,
+      "tier3_reports": 0,
+      "open_reports": 17,
+      "shortage_days": 73447,
+      "median_duration_days": 155.5
+    },
+    {
+      "company": "ICU MEDICAL CANADA INC",
+      "reports": 96,
+      "tier3_reports": 0,
+      "open_reports": 9,
+      "shortage_days": 11757,
+      "median_duration_days": 59.0
+    },
+    {
+      "company": "LABORATOIRE RIVA INC",
+      "reports": 96,
+      "tier3_reports": 0,
+      "open_reports": 44,
+      "shortage_days": 139646,
+      "median_duration_days": 434.0
+    },
+    {
+      "company": "HOSPIRA HEALTHCARE CORPORATION",
+      "reports": 91,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 20261,
+      "median_duration_days": 146.5
+    },
+    {
+      "company": "ODAN LABORATORIES LTD",
+      "reports": 90,
+      "tier3_reports": 0,
+      "open_reports": 39,
+      "shortage_days": 144450,
+      "median_duration_days": 545.5
+    },
+    {
+      "company": "BOEHRINGER INGELHEIM (CANADA) LTD LTEE",
+      "reports": 87,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 3673,
+      "median_duration_days": 28.0
+    },
+    {
+      "company": "MANTRA PHARMA INC",
+      "reports": 84,
+      "tier3_reports": 0,
+      "open_reports": 10,
+      "shortage_days": 17333,
+      "median_duration_days": 67.0
+    },
+    {
+      "company": "TAROPHARMA, A DIVISION OF TARO PHARMACEUTICALS INC.",
+      "reports": 73,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 5437,
+      "median_duration_days": 47.0
+    },
+    {
+      "company": "SERVIER CANADA INC",
+      "reports": 70,
+      "tier3_reports": 1,
+      "open_reports": 5,
+      "shortage_days": 4484,
+      "median_duration_days": 15.0
+    },
+    {
+      "company": "ASTRAZENECA CANADA INC",
+      "reports": 66,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 6482,
+      "median_duration_days": 28.0
+    },
+    {
+      "company": "ERFA CANADA 2012 INC",
+      "reports": 60,
+      "tier3_reports": 0,
+      "open_reports": 10,
+      "shortage_days": 49734,
+      "median_duration_days": 125.0
+    },
+    {
+      "company": "NATCO PHARMA (CANADA) INC",
+      "reports": 56,
+      "tier3_reports": 0,
+      "open_reports": 30,
+      "shortage_days": 23463,
+      "median_duration_days": 380.0
+    },
+    {
+      "company": "ABBVIE CORPORATION",
+      "reports": 51,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 3178,
+      "median_duration_days": 39.0
+    },
+    {
+      "company": "HIKMA CANADA LIMITED",
+      "reports": 48,
+      "tier3_reports": 0,
+      "open_reports": 14,
+      "shortage_days": 2188,
+      "median_duration_days": 121.5
+    },
+    {
+      "company": "UPJOHN CANADA ULC",
+      "reports": 48,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2835,
+      "median_duration_days": 59.0
+    },
+    {
+      "company": "BRISTOL-MYERS SQUIBB CANADA",
+      "reports": 47,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 1839,
+      "median_duration_days": 51.0
+    },
+    {
+      "company": "SANOFI PASTEUR LIMITED",
+      "reports": 47,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 8287,
+      "median_duration_days": 105.0
+    },
+    {
+      "company": "SEARCHLIGHT PHARMA INC",
+      "reports": 47,
+      "tier3_reports": 2,
+      "open_reports": 13,
+      "shortage_days": 9148,
+      "median_duration_days": 111.5
+    },
+    {
+      "company": "BAUSCH & LOMB INC",
+      "reports": 46,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 4848,
+      "median_duration_days": 39.5
+    },
+    {
+      "company": "ELI LILLY CANADA INC",
+      "reports": 45,
+      "tier3_reports": 0,
+      "open_reports": 6,
+      "shortage_days": 5802,
+      "median_duration_days": 81.0
+    },
+    {
+      "company": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+      "reports": 44,
+      "tier3_reports": 1,
+      "open_reports": 7,
+      "shortage_days": 5923,
+      "median_duration_days": 159.0
+    },
+    {
+      "company": "CURIUM CANADA INC",
+      "reports": 41,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 3655,
+      "median_duration_days": 20.0
+    },
+    {
+      "company": "TAKEDA CANADA INC",
+      "reports": 40,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1523,
+      "median_duration_days": 33.0
+    },
+    {
+      "company": "LEO PHARMA INC",
+      "reports": 38,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 5139,
+      "median_duration_days": 42.5
+    },
+    {
+      "company": "TELIGENT OU",
+      "reports": 36,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 9024,
+      "median_duration_days": 107.5
+    },
+    {
+      "company": "NORA PHARMA INC",
+      "reports": 32,
+      "tier3_reports": 0,
+      "open_reports": 17,
+      "shortage_days": 8559,
+      "median_duration_days": 334.5
+    },
+    {
+      "company": "HOFFMANN-LA ROCHE LIMITED",
+      "reports": 26,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 3745,
+      "median_duration_days": 41.0
+    },
+    {
+      "company": "ENDO VENTURES LTD",
+      "reports": 24,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1113,
+      "median_duration_days": 43.0
+    },
+    {
+      "company": "DR REDDY'S LABORATORIES LTD",
+      "reports": 23,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 2976,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "EMD SERONO, A DIVISION OF EMD INC., CANADA",
+      "reports": 23,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 943,
+      "median_duration_days": 21.0
+    },
+    {
+      "company": "LUPIN PHARMA CANADA LIMITED",
+      "reports": 23,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 2890,
+      "median_duration_days": 86.0
+    },
+    {
+      "company": "NOVO NORDISK CANADA INC",
+      "reports": 22,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 547,
+      "median_duration_days": 7.0
+    },
+    {
+      "company": "APTALIS PHARMA CANADA ULC",
+      "reports": 21,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1995,
+      "median_duration_days": 35.0
+    },
+    {
+      "company": "GENMED A DIVISION OF PFIZER CANADA INC",
+      "reports": 21,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1427,
+      "median_duration_days": 37.0
+    },
+    {
+      "company": "GLENMARK PHARMACEUTICALS CANADA INC.",
+      "reports": 21,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 1976,
+      "median_duration_days": 100.5
+    },
+    {
+      "company": "FERRING INC",
+      "reports": 20,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 10832,
+      "median_duration_days": 494.5
+    },
+    {
+      "company": "JUBILANT HOLLISTERSTIER LLC",
+      "reports": 20,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 9795,
+      "median_duration_days": 277.0
+    },
+    {
+      "company": "ALK ABELLO A/S",
+      "reports": 19,
+      "tier3_reports": 0,
+      "open_reports": 5,
+      "shortage_days": 32348,
+      "median_duration_days": 2330.0
+    },
+    {
+      "company": "SEPTA PHARMACEUTICALS INC",
+      "reports": 19,
+      "tier3_reports": 0,
+      "open_reports": 15,
+      "shortage_days": 37824,
+      "median_duration_days": 2266.0
+    },
+    {
+      "company": "B. BRAUN MEDICAL INC",
+      "reports": 18,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 3276,
+      "median_duration_days": 323.0
+    },
+    {
+      "company": "JUNO PHARMACEUTICALS CORP.",
+      "reports": 18,
+      "tier3_reports": 1,
+      "open_reports": 1,
+      "shortage_days": 1541,
+      "median_duration_days": 53.0
+    },
+    {
+      "company": "BRACCO IMAGING CANADA",
+      "reports": 17,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 8276,
+      "median_duration_days": 66.0
+    },
+    {
+      "company": "ATNAHS PHARMA UK LIMITED",
+      "reports": 16,
+      "tier3_reports": 0,
+      "open_reports": 7,
+      "shortage_days": 7340,
+      "median_duration_days": 425.0
+    },
+    {
+      "company": "SHIRE PHARMA CANADA ULC",
+      "reports": 16,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 901,
+      "median_duration_days": 19.0
+    },
+    {
+      "company": "TAKEDA PHARMACEUTICALS AMERICA INC",
+      "reports": 16,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 550,
+      "median_duration_days": 37.0
+    },
+    {
+      "company": "DENTSPLY CANADA LIMITED",
+      "reports": 15,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 1007,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "JANSSEN INC",
+      "reports": 15,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 179,
+      "median_duration_days": 26.0
+    },
+    {
+      "company": "ALCON CANADA INC",
+      "reports": 14,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2236,
+      "median_duration_days": 96.0
+    },
+    {
+      "company": "AVIR PHARMA INC.",
+      "reports": 14,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 560,
+      "median_duration_days": 23.0
+    },
+    {
+      "company": "JUBILANT DRAXIMAGE INC",
+      "reports": 14,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 407,
+      "median_duration_days": 52.0
+    },
+    {
+      "company": "EUGIA PHARMA INC.",
+      "reports": 13,
+      "tier3_reports": 0,
+      "open_reports": 7,
+      "shortage_days": 1411,
+      "median_duration_days": 99.0
+    },
+    {
+      "company": "GENERIC MEDICAL PARTNERS INC",
+      "reports": 13,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 2865,
+      "median_duration_days": 111.0
+    },
+    {
+      "company": "LIEBEL-FLARSHEIM CANADA INC",
+      "reports": 13,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 3895,
+      "median_duration_days": 236.0
+    },
+    {
+      "company": "SANOFI GENZYME, A DIVISION OF SANOFI-AVENTIS CANADA INC",
+      "reports": 12,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 642,
+      "median_duration_days": 38.0
+    },
+    {
+      "company": "AMPHASTAR PHARMACEUTICALS, INC.",
+      "reports": 11,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 582,
+      "median_duration_days": 71.0
+    },
+    {
+      "company": "CHURCH & DWIGHT CANADA CORP",
+      "reports": 11,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 859,
+      "median_duration_days": 60.0
+    },
+    {
+      "company": "UCB CANADA INC",
+      "reports": 11,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 105,
+      "median_duration_days": 6.5
+    },
+    {
+      "company": "ACCEL PHARMA INC",
+      "reports": 10,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 9677,
+      "median_duration_days": 1246.0
+    },
+    {
+      "company": "ETHYPHARM INC",
+      "reports": 10,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 323,
+      "median_duration_days": 35.0
+    },
+    {
+      "company": "MISSION PHARMACAL COMPANY",
+      "reports": 10,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 453,
+      "median_duration_days": 62.0
+    },
+    {
+      "company": "VALEO PHARMA INC",
+      "reports": 10,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 3033,
+      "median_duration_days": 343.5
+    },
+    {
+      "company": "XEDITON PHARMACEUTICALS INC",
+      "reports": 10,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 1207,
+      "median_duration_days": 214.0
+    },
+    {
+      "company": "CHEPLAPHARM REGISTRATION GMBH",
+      "reports": 9,
+      "tier3_reports": 0,
+      "open_reports": 8,
+      "shortage_days": 984,
+      "median_duration_days": 112.0
+    },
+    {
+      "company": "GALDERMA CANADA INC",
+      "reports": 9,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 238,
+      "median_duration_days": 37.0
+    },
+    {
+      "company": "LINEPHARMA INTERNATIONAL LIMITED",
+      "reports": 9,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 386,
+      "median_duration_days": 45.0
+    },
+    {
+      "company": "MYLAN SPECIALTY LP",
+      "reports": 9,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1082,
+      "median_duration_days": 60.5
+    },
+    {
+      "company": "TELIP, LLC, A SUBSIDIARY OF TELIGENT, INC.",
+      "reports": 9,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 921,
+      "median_duration_days": 146.0
+    },
+    {
+      "company": "VALEANT PHARMACEUTICALS NORTH AMERICA LLC",
+      "reports": 9,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1443,
+      "median_duration_days": 130.0
+    },
+    {
+      "company": "ARALEZ PHARMACEUTICALS CANADA INC",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1438,
+      "median_duration_days": 76.5
+    },
+    {
+      "company": "INDIVIOR UK LIMITED",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 394,
+      "median_duration_days": 25.5
+    },
+    {
+      "company": "JAZZ PHARMACEUTICALS FRANCE SAS",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1433,
+      "median_duration_days": 117.5
+    },
+    {
+      "company": "KNIGHT THERAPEUTICS INC.",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 554,
+      "median_duration_days": 98.0
+    },
+    {
+      "company": "PALADIN PHARMA INC.",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 6,
+      "shortage_days": 3440,
+      "median_duration_days": 392.5
+    },
+    {
+      "company": "SUN PHARMACEUTICAL INDUSTRIES LIMITED",
+      "reports": 8,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 283,
+      "median_duration_days": 41.5
+    },
+    {
+      "company": "TILLOTTS PHARMA GMBH",
+      "reports": 7,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 311,
+      "median_duration_days": 42.5
+    },
+    {
+      "company": "ALTIUS HEALTHCARE INC",
+      "reports": 6,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 332,
+      "median_duration_days": 18.0
+    },
+    {
+      "company": "LANTHEUS MI CANADA INC",
+      "reports": 6,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 463,
+      "median_duration_days": 78.0
+    },
+    {
+      "company": "MDA INC.",
+      "reports": 6,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 331,
+      "median_duration_days": 49.0
+    },
+    {
+      "company": "NXSTAGE MEDICAL INC",
+      "reports": 6,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 214,
+      "median_duration_days": 21.5
+    },
+    {
+      "company": "SUNOVION PHARMACEUTICALS CANADA INC",
+      "reports": 6,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 722,
+      "median_duration_days": 115.0
+    },
+    {
+      "company": "AKORN INC",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 2686,
+      "median_duration_days": 91.0
+    },
+    {
+      "company": "ASTELLAS PHARMA CANADA INC",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 51,
+      "median_duration_days": 7.0
+    },
+    {
+      "company": "ENDO OPERATIONS LTD.",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 258,
+      "median_duration_days": 52.0
+    },
+    {
+      "company": "LIEBEL-FLARSHEIM COMPANY LLC",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 4103,
+      "median_duration_days": 1235.0
+    },
+    {
+      "company": "MERUS LABS LUXCO S. A R.L.",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 147,
+      "median_duration_days": 73.5
+    },
+    {
+      "company": "PHARMA STULLN INC.",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 2206,
+      "median_duration_days": 131.0
+    },
+    {
+      "company": "SERB S.A.",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 149,
+      "median_duration_days": 55.0
+    },
+    {
+      "company": "SUMITOMO PHARMA CANADA, INC.",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 120,
+      "median_duration_days": 60.0
+    },
+    {
+      "company": "VALNEVA SWEDEN AB",
+      "reports": 5,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 146,
+      "median_duration_days": 21.0
+    },
+    {
+      "company": "ALEXION PHARMA GMBH",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "AMGEN CANADA INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 332,
+      "median_duration_days": 98.0
+    },
+    {
+      "company": "BAVARIAN NORDIC AS",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 382,
+      "median_duration_days": 90.0
+    },
+    {
+      "company": "EISAI LIMITED",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 50,
+      "median_duration_days": 11.0
+    },
+    {
+      "company": "LABORATOIRE AGUETTANT",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 199,
+      "median_duration_days": 27.5
+    },
+    {
+      "company": "LABORATOIRES STERIGEN INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2443,
+      "median_duration_days": 287.5
+    },
+    {
+      "company": "LEADIANT BIOSCIENCES, INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 1131,
+      "median_duration_days": 565.5
+    },
+    {
+      "company": "LUNDBECK CANADA INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 346,
+      "median_duration_days": 11.5
+    },
+    {
+      "company": "LUNDBECK PHARMACEUTICALS LLC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 908,
+      "median_duration_days": 232.5
+    },
+    {
+      "company": "NESTLE ENTERPRISES S.A.",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 204,
+      "median_duration_days": 39.5
+    },
+    {
+      "company": "OTSUKA PHARMACEUTICAL CO LTD",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 17,
+      "median_duration_days": 8.5
+    },
+    {
+      "company": "SANOFI CONSUMER HEALTH INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 295,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "STERINOVA INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 156,
+      "median_duration_days": 78.0
+    },
+    {
+      "company": "TAYLOR PHARMACEUTICALS",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1214,
+      "median_duration_days": 375.0
+    },
+    {
+      "company": "TEVA WOMEN'S HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1076,
+      "median_duration_days": 132.5
+    },
+    {
+      "company": "USPHARMA LTD",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 133,
+      "median_duration_days": 133.0
+    },
+    {
+      "company": "VANTIVE ULC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 162,
+      "median_duration_days": 13.0
+    },
+    {
+      "company": "VIIV HEALTHCARE ULC",
+      "reports": 4,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 158,
+      "median_duration_days": 36.5
+    },
+    {
+      "company": "ACERUS PHARMACEUTICALS CORPORATION",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 7035,
+      "median_duration_days": 2345.0
+    },
+    {
+      "company": "AMDIPHARM LIMITED",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 104,
+      "median_duration_days": 104.0
+    },
+    {
+      "company": "BIOSYENT PHARMA INC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "BTG INTERNATIONAL INC",
+      "reports": 3,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 268,
+      "median_duration_days": 134.0
+    },
+    {
+      "company": "DUCHESNAY INC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 2389,
+      "median_duration_days": 1089.0
+    },
+    {
+      "company": "ENDO PAR INNOVATION COMPANY, LLC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 196,
+      "median_duration_days": 98.0
+    },
+    {
+      "company": "GLAXOSMITHKLINE CONSUMER HEALTHCARE ULC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 3,
+      "shortage_days": 914,
+      "median_duration_days": 914.0
+    },
+    {
+      "company": "HOPE PHARMACEUTICALS LTD",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 264,
+      "median_duration_days": 93.0
+    },
+    {
+      "company": "ID BIOMEDICAL CORPORATION OF QUEBEC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 681,
+      "median_duration_days": 184.0
+    },
+    {
+      "company": "KVR PHARMACEUTICALS INC.",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 212,
+      "median_duration_days": 212.0
+    },
+    {
+      "company": "KYE PHARMACEUTICALS INC.",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 58,
+      "median_duration_days": 13.0
+    },
+    {
+      "company": "KYTHERA BIOPHARMACEUTICALS, INC.",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 309,
+      "median_duration_days": 154.5
+    },
+    {
+      "company": "NODEN PHARMA DAC",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 416,
+      "median_duration_days": 80.0
+    },
+    {
+      "company": "VALNEVA AUSTRIA GMBH",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 3,
+      "median_duration_days": 3.0
+    },
+    {
+      "company": "VERITY PHARMACEUTICALS INC.",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 46,
+      "median_duration_days": 46.0
+    },
+    {
+      "company": "BAXALTA CANADA CORPORATION",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 48,
+      "median_duration_days": 24.0
+    },
+    {
+      "company": "CHIESI FARMACEUTICI S.P.A.",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 14,
+      "median_duration_days": 14.0
+    },
+    {
+      "company": "DIOPTIC PHARMACEUTICALS INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 1715,
+      "median_duration_days": 1715.0
+    },
+    {
+      "company": "DORMER LABORATORIES INC.",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 586,
+      "median_duration_days": 293.0
+    },
+    {
+      "company": "DUTCH OPHTHALMIC RESEARCH CENTER INTERNATIONAL BV",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 99,
+      "median_duration_days": 49.5
+    },
+    {
+      "company": "EURO-PHARM INTERNATIONAL CANADA INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 1430,
+      "median_duration_days": 1430.0
+    },
+    {
+      "company": "FOREST LABORATORIES CANADA INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 136,
+      "median_duration_days": 68.0
+    },
+    {
+      "company": "GRIFOLS THERAPEUTICS LLC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "GUERBET",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "HAEMONETICS CORPORATION",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 61,
+      "median_duration_days": 30.5
+    },
+    {
+      "company": "JAZZ PHARMACEUTICALS IRELAND LIMITED",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 395,
+      "median_duration_days": 395.0
+    },
+    {
+      "company": "KALEO INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2306,
+      "median_duration_days": 1153.0
+    },
+    {
+      "company": "KARO PHARMA AB",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 139,
+      "median_duration_days": 139.0
+    },
+    {
+      "company": "LABORATOIRES THEA",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 27,
+      "median_duration_days": 27.0
+    },
+    {
+      "company": "MAYNE PHARMA INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 56,
+      "median_duration_days": 28.0
+    },
+    {
+      "company": "MCNEIL CONSUMER HEALTHCARE DIVISION OF JOHNSON & JOHNSON INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 164,
+      "median_duration_days": 164.0
+    },
+    {
+      "company": "MEDEXUS INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "MENDELIKABS INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 781,
+      "median_duration_days": 390.5
+    },
+    {
+      "company": "NORDIC GROUP B.V.",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 2,
+      "shortage_days": 4232,
+      "median_duration_days": 2116.0
+    },
+    {
+      "company": "PAR PHARMACEUTICAL COMPANIES",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 230,
+      "median_duration_days": 115.0
+    },
+    {
+      "company": "PAXVAX BERNA GMBH",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 24,
+      "median_duration_days": 24.0
+    },
+    {
+      "company": "PFIZER CONSUMER HEALTHCARE A DIVISION OF PFIZER CANADA ULC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 1969,
+      "median_duration_days": 984.5
+    },
+    {
+      "company": "PHEBRA CANADA INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 81,
+      "median_duration_days": 40.5
+    },
+    {
+      "company": "RECORDATI RARE DISEASES CANADA INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 46,
+      "median_duration_days": 23.0
+    },
+    {
+      "company": "SMITH & NEPHEW INC",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 897,
+      "median_duration_days": 448.5
+    },
+    {
+      "company": "TOLMAR INTERNATIONAL LTD.",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 116,
+      "median_duration_days": 116.0
+    },
+    {
+      "company": "WOCKHARDT UK LIMITED",
+      "reports": 2,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2,
+      "median_duration_days": 2.0
+    },
+    {
+      "company": "ACERUS BIOPHARMA INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1142,
+      "median_duration_days": 1142.0
+    },
+    {
+      "company": "ADIENNE SA",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 18,
+      "median_duration_days": 18.0
+    },
+    {
+      "company": "ADVANCED ACCELERATOR APPLICATIONS USA, INC.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 42,
+      "median_duration_days": 42.0
+    },
+    {
+      "company": "ALLERGY THERAPEUTICS (UK) LTD",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 57,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "AMD MEDICOM INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 95,
+      "median_duration_days": 95.0
+    },
+    {
+      "company": "BECTON DICKINSON CANADA INC.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "BIOCODEX SA",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 3181,
+      "median_duration_days": 3181.0
+    },
+    {
+      "company": "BIOGEN CANADA INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "BIOMARIN INTERNATIONAL LIMITED",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "BIONTECH MANUFACTURING GMBH",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "BIOSIMILAR COLLABORATIONS IRELAND LIMITED",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 46,
+      "median_duration_days": 46.0
+    },
+    {
+      "company": "CAREFUSION CANADA ULC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "CELGENE INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "CHX TECHNOLOGIES INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 955,
+      "median_duration_days": 955.0
+    },
+    {
+      "company": "CIPHER PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 1942,
+      "median_duration_days": 1942.0
+    },
+    {
+      "company": "COVIS PHARMA GMBH",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 4,
+      "median_duration_days": 4.0
+    },
+    {
+      "company": "CUBIST PHARMACEUTICALS LLC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 13,
+      "median_duration_days": 13.0
+    },
+    {
+      "company": "DIAGNOSTIC GREEN GMBH",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 63,
+      "median_duration_days": 63.0
+    },
+    {
+      "company": "DIAGNOSTIC GREEN LIMITED",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "DOMP\u00c9 FARMACEUTICI S.P.A.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "EMERGENT BIOSOLUTIONS BERNA GMBH",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 267,
+      "median_duration_days": 267.0
+    },
+    {
+      "company": "ENDO PHARMACEUTICALS INC.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 483,
+      "median_duration_days": 483.0
+    },
+    {
+      "company": "ESSENTIAL PHARMA SWITZERLAND GMBH",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 170,
+      "median_duration_days": 170.0
+    },
+    {
+      "company": "GLENMARK SPECIALTY SA",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 101,
+      "median_duration_days": 101.0
+    },
+    {
+      "company": "GLENWOOD GMBH PHARMAZEUTISCHE ERZEUGNISSE",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "GW PHARMA LIMITED",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 9,
+      "median_duration_days": 9.0
+    },
+    {
+      "company": "HORIZON THERAPEUTICS IRELAND DAC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 44,
+      "median_duration_days": 44.0
+    },
+    {
+      "company": "IPSEN BIOPHARMACEUTICALS CANADA INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 16,
+      "median_duration_days": 16.0
+    },
+    {
+      "company": "ISOLOGIC INNOVATIVE RADIOPHARMACEUTICALS LTD.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 738,
+      "median_duration_days": 738.0
+    },
+    {
+      "company": "KI BIOPHARMA LLC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "KORA HEALTHCARE",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 519,
+      "median_duration_days": 519.0
+    },
+    {
+      "company": "LOXO ONCOLOGY INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 34,
+      "median_duration_days": 34.0
+    },
+    {
+      "company": "LUITPOLD PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 90,
+      "median_duration_days": 90.0
+    },
+    {
+      "company": "MALLINCKRODT SPECIALTY PHARMACEUTICALS IRELAND LTD.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "MCGUFF PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 597,
+      "median_duration_days": 597.0
+    },
+    {
+      "company": "MEDA PHARMACEUTICALS LTD",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 88,
+      "median_duration_days": 88.0
+    },
+    {
+      "company": "MEDUNIK CANADA",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 22,
+      "median_duration_days": 22.0
+    },
+    {
+      "company": "PHARMAAND GMBH",
+      "reports": 1,
+      "tier3_reports": 1,
+      "open_reports": 1,
+      "shortage_days": 398,
+      "median_duration_days": 398.0
+    },
+    {
+      "company": "PHARMAZEUTISCHE FABRIK MONTAVIT GES M.B.H.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1,
+      "median_duration_days": 1.0
+    },
+    {
+      "company": "PROVENSIS LTD",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 2114,
+      "median_duration_days": 2114.0
+    },
+    {
+      "company": "SALIX PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 0,
+      "median_duration_days": null
+    },
+    {
+      "company": "SEQIRUS PTY LTD",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 23,
+      "median_duration_days": 23.0
+    },
+    {
+      "company": "SHIRE HUMAN GENETIC THERAPIES INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 2,
+      "median_duration_days": 2.0
+    },
+    {
+      "company": "SIGMA-TAU PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 427,
+      "median_duration_days": 427.0
+    },
+    {
+      "company": "STERI-MED PHARMA INC.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 44,
+      "median_duration_days": 44.0
+    },
+    {
+      "company": "SUN PHARMA GLOBAL FZE",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 74,
+      "median_duration_days": 74.0
+    },
+    {
+      "company": "SUN PHARMACEUTICAL INDUSTRIES LTD.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 11,
+      "median_duration_days": 11.0
+    },
+    {
+      "company": "SUN PHARMACEUTICAL INDUSTRIES, INC.",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 64,
+      "median_duration_days": 64.0
+    },
+    {
+      "company": "THROMBOGENICS NV",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 19,
+      "median_duration_days": 19.0
+    },
+    {
+      "company": "VPI PHARMACEUTICALS INC",
+      "reports": 1,
+      "tier3_reports": 0,
+      "open_reports": 1,
+      "shortage_days": 977,
+      "median_duration_days": 977.0
+    }
+  ],
+  "tier3": [
+    {
+      "company": "TEVA CANADA LIMITED",
+      "reports": 3077,
+      "tier3_reports": 13,
+      "open_reports": 240,
+      "shortage_days": 621344,
+      "median_duration_days": 66.0
+    },
+    {
+      "company": "PFIZER CANADA ULC",
+      "reports": 625,
+      "tier3_reports": 9,
+      "open_reports": 35,
+      "shortage_days": 98972,
+      "median_duration_days": 78.0
+    },
+    {
+      "company": "PHARMASCIENCE INC",
+      "reports": 1340,
+      "tier3_reports": 7,
+      "open_reports": 64,
+      "shortage_days": 395797,
+      "median_duration_days": 133.5
+    },
+    {
+      "company": "APOTEX INC",
+      "reports": 3633,
+      "tier3_reports": 3,
+      "open_reports": 238,
+      "shortage_days": 765167,
+      "median_duration_days": 57.0
+    },
+    {
+      "company": "ASPEN PHARMACARE CANADA INC.",
+      "reports": 215,
+      "tier3_reports": 3,
+      "open_reports": 10,
+      "shortage_days": 18850,
+      "median_duration_days": 46.0
+    },
+    {
+      "company": "ACCORD HEALTHCARE INC",
+      "reports": 382,
+      "tier3_reports": 2,
+      "open_reports": 91,
+      "shortage_days": 82640,
+      "median_duration_days": 91.0
+    },
+    {
+      "company": "FRESENIUS KABI CANADA LTD",
+      "reports": 361,
+      "tier3_reports": 2,
+      "open_reports": 12,
+      "shortage_days": 27641,
+      "median_duration_days": 61.0
+    },
+    {
+      "company": "BAXTER CORPORATION",
+      "reports": 243,
+      "tier3_reports": 2,
+      "open_reports": 5,
+      "shortage_days": 16468,
+      "median_duration_days": 33.0
+    },
+    {
+      "company": "MINT PHARMACEUTICALS INC",
+      "reports": 143,
+      "tier3_reports": 2,
+      "open_reports": 17,
+      "shortage_days": 49224,
+      "median_duration_days": 168.0
+    },
+    {
+      "company": "SEARCHLIGHT PHARMA INC",
+      "reports": 47,
+      "tier3_reports": 2,
+      "open_reports": 13,
+      "shortage_days": 9148,
+      "median_duration_days": 111.5
+    },
+    {
+      "company": "SANDOZ CANADA INCORPORATED",
+      "reports": 2261,
+      "tier3_reports": 1,
+      "open_reports": 53,
+      "shortage_days": 229322,
+      "median_duration_days": 40.0
+    },
+    {
+      "company": "AURO PHARMA INC",
+      "reports": 878,
+      "tier3_reports": 1,
+      "open_reports": 27,
+      "shortage_days": 169432,
+      "median_duration_days": 80.0
+    },
+    {
+      "company": "GLAXOSMITHKLINE INC",
+      "reports": 384,
+      "tier3_reports": 1,
+      "open_reports": 5,
+      "shortage_days": 35857,
+      "median_duration_days": 40.5
+    },
+    {
+      "company": "AA PHARMA INC",
+      "reports": 379,
+      "tier3_reports": 1,
+      "open_reports": 25,
+      "shortage_days": 29761,
+      "median_duration_days": 53.0
+    },
+    {
+      "company": "SANOFI-AVENTIS CANADA INC",
+      "reports": 306,
+      "tier3_reports": 1,
+      "open_reports": 8,
+      "shortage_days": 21381,
+      "median_duration_days": 47.0
+    },
+    {
+      "company": "BAUSCH HEALTH, CANADA INC.",
+      "reports": 213,
+      "tier3_reports": 1,
+      "open_reports": 6,
+      "shortage_days": 15847,
+      "median_duration_days": 44.0
+    },
+    {
+      "company": "STERIMAX INC",
+      "reports": 173,
+      "tier3_reports": 1,
+      "open_reports": 25,
+      "shortage_days": 42358,
+      "median_duration_days": 45.5
+    },
+    {
+      "company": "SERVIER CANADA INC",
+      "reports": 70,
+      "tier3_reports": 1,
+      "open_reports": 5,
+      "shortage_days": 4484,
+      "median_duration_days": 15.0
+    },
+    {
+      "company": "CHEPLAPHARM ARZNEIMITTEL GMBH",
+      "reports": 44,
+      "tier3_reports": 1,
+      "open_reports": 7,
+      "shortage_days": 5923,
+      "median_duration_days": 159.0
+    },
+    {
+      "company": "NOVO NORDISK CANADA INC",
+      "reports": 22,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 547,
+      "median_duration_days": 7.0
+    },
+    {
+      "company": "JUNO PHARMACEUTICALS CORP.",
+      "reports": 18,
+      "tier3_reports": 1,
+      "open_reports": 1,
+      "shortage_days": 1541,
+      "median_duration_days": 53.0
+    },
+    {
+      "company": "TELIP, LLC, A SUBSIDIARY OF TELIGENT, INC.",
+      "reports": 9,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 921,
+      "median_duration_days": 146.0
+    },
+    {
+      "company": "BTG INTERNATIONAL INC",
+      "reports": 3,
+      "tier3_reports": 1,
+      "open_reports": 0,
+      "shortage_days": 268,
+      "median_duration_days": 134.0
+    },
+    {
+      "company": "PHARMAAND GMBH",
+      "reports": 1,
+      "tier3_reports": 1,
+      "open_reports": 1,
+      "shortage_days": 398,
+      "median_duration_days": 398.0
+    }
+  ],
+  "discontinuations_top10": [
+    {
+      "company": "TEVA CANADA LIMITED",
+      "reports": 413
+    },
+    {
+      "company": "APOTEX INC",
+      "reports": 380
+    },
+    {
+      "company": "PHARMASCIENCE INC",
+      "reports": 292
+    },
+    {
+      "company": "MYLAN PHARMACEUTICALS ULC",
+      "reports": 235
+    },
+    {
+      "company": "PRO DOC LIMITEE",
+      "reports": 154
+    },
+    {
+      "company": "SANDOZ CANADA INCORPORATED",
+      "reports": 128
+    },
+    {
+      "company": "SIVEM PHARMACEUTICALS ULC",
+      "reports": 108
+    },
+    {
+      "company": "PFIZER CANADA ULC",
+      "reports": 90
+    },
+    {
+      "company": "ACTAVIS PHARMA COMPANY",
+      "reports": 78
+    },
+    {
+      "company": "SANIS HEALTH INC",
+      "reports": 72
+    }
+  ]
+}

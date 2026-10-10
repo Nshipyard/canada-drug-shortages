@@ -1,0 +1,127 @@
+[
+  {
+    "report_id": "172409",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "164326",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "196333",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "139722",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "142575",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "95288",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "97097",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "99685",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "151342",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "8593",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "186580",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "23641",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "3746",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "13093",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "8528",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "199919",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "199925",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "225533",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "242929",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "254027",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "254697",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "199596",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "140284",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "134504",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  },
+  {
+    "report_id": "140290",
+    "reason": "actual end date before actual start date",
+    "action": "duration set to null, row kept"
+  }
+]

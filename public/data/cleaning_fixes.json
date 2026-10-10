@@ -1,0 +1,30 @@
+[
+  {
+    "problem": "BOM + disclaimer header row",
+    "fix": "utf-8-sig decode, skipped the disclaimer row, stripped whitespace-only cells to null"
+  },
+  {
+    "problem": "21 shortage reports with no company name",
+    "fix": "excluded from company rankings, kept in the cleaned file with company_canonical=null"
+  },
+  {
+    "problem": "16 merge groups collapsing spelling variants (1215 rows affected)",
+    "fix": "exact-match union on curated near-identical strings only; distinct legal entities kept separate (e.g. Valneva Austria vs Sweden, Sun Pharma's five entities); every merge logged to company_merges.json"
+  },
+  {
+    "problem": "4 shortage rows with missing/unnumeric DINs",
+    "fix": "DIN stripped to digits and zero-padded to 8; nulls kept as null, never guessed"
+  },
+  {
+    "problem": "2 date cells holding 0001-01-01 placeholders",
+    "fix": "treated as missing, never as real dates"
+  },
+  {
+    "problem": "94 reports where the actual end date predates the actual start",
+    "fix": "quarantined from duration math (duration=null), row kept and flagged"
+  },
+  {
+    "problem": "96 shortage reports with no usable ATC code (blank or non-letter start)",
+    "fix": "excluded from ATC rollups, kept in the file with atc1=null"
+  }
+]

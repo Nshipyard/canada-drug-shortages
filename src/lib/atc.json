@@ -1,0 +1,351 @@
+{
+  "atc1": [
+    {
+      "atc1": "N",
+      "name": "Nervous system",
+      "reports": 6785,
+      "tier3_reports": 13,
+      "open_reports": 463,
+      "shortage_days": 1193096,
+      "companies": 101
+    },
+    {
+      "atc1": "C",
+      "name": "Cardiovascular system",
+      "reports": 5082,
+      "tier3_reports": 9,
+      "open_reports": 377,
+      "shortage_days": 1256990,
+      "companies": 85
+    },
+    {
+      "atc1": "J",
+      "name": "Antiinfectives for systemic use",
+      "reports": 2072,
+      "tier3_reports": 4,
+      "open_reports": 136,
+      "shortage_days": 429573,
+      "companies": 82
+    },
+    {
+      "atc1": "A",
+      "name": "Alimentary tract and metabolism",
+      "reports": 2034,
+      "tier3_reports": 0,
+      "open_reports": 155,
+      "shortage_days": 383081,
+      "companies": 88
+    },
+    {
+      "atc1": "G",
+      "name": "Genito-urinary system and sex hormones",
+      "reports": 1350,
+      "tier3_reports": 0,
+      "open_reports": 74,
+      "shortage_days": 220058,
+      "companies": 57
+    },
+    {
+      "atc1": "L",
+      "name": "Antineoplastic and immunomodulating agents",
+      "reports": 1249,
+      "tier3_reports": 13,
+      "open_reports": 106,
+      "shortage_days": 212782,
+      "companies": 72
+    },
+    {
+      "atc1": "D",
+      "name": "Dermatologicals",
+      "reports": 1099,
+      "tier3_reports": 0,
+      "open_reports": 62,
+      "shortage_days": 195166,
+      "companies": 45
+    },
+    {
+      "atc1": "B",
+      "name": "Blood and blood forming organs",
+      "reports": 1081,
+      "tier3_reports": 0,
+      "open_reports": 63,
+      "shortage_days": 128168,
+      "companies": 56
+    },
+    {
+      "atc1": "M",
+      "name": "Musculo-skeletal system",
+      "reports": 873,
+      "tier3_reports": 0,
+      "open_reports": 45,
+      "shortage_days": 160053,
+      "companies": 54
+    },
+    {
+      "atc1": "R",
+      "name": "Respiratory system",
+      "reports": 744,
+      "tier3_reports": 15,
+      "open_reports": 61,
+      "shortage_days": 157769,
+      "companies": 55
+    },
+    {
+      "atc1": "S",
+      "name": "Sensory organs",
+      "reports": 738,
+      "tier3_reports": 0,
+      "open_reports": 80,
+      "shortage_days": 228200,
+      "companies": 49
+    },
+    {
+      "atc1": "V",
+      "name": "Various",
+      "reports": 549,
+      "tier3_reports": 3,
+      "open_reports": 39,
+      "shortage_days": 119694,
+      "companies": 50
+    },
+    {
+      "atc1": "H",
+      "name": "Systemic hormonal preparations",
+      "reports": 538,
+      "tier3_reports": 2,
+      "open_reports": 36,
+      "shortage_days": 83511,
+      "companies": 43
+    },
+    {
+      "atc1": "P",
+      "name": "Antiparasitic products",
+      "reports": 84,
+      "tier3_reports": 0,
+      "open_reports": 4,
+      "shortage_days": 12457,
+      "companies": 18
+    },
+    {
+      "atc1": "U",
+      "name": "U",
+      "reports": 3,
+      "tier3_reports": 0,
+      "open_reports": 0,
+      "shortage_days": 1278,
+      "companies": 1
+    }
+  ],
+  "atc2_top30": [
+    {
+      "atc2": "C09",
+      "description": "ANGIOTENSIN II ANTAGONISTS, PLAIN",
+      "reports": 2242,
+      "tier3_reports": 0,
+      "open_reports": 170
+    },
+    {
+      "atc2": "N06",
+      "description": "ANTIDEPRESSANTS",
+      "reports": 2123,
+      "tier3_reports": 0,
+      "open_reports": 117
+    },
+    {
+      "atc2": "N05",
+      "description": "ANTIPSYCHOTICS",
+      "reports": 1467,
+      "tier3_reports": 7,
+      "open_reports": 123
+    },
+    {
+      "atc2": "J01",
+      "description": "OTHER BETA-LACTAM ANTIBACTERIALS",
+      "reports": 1331,
+      "tier3_reports": 2,
+      "open_reports": 93
+    },
+    {
+      "atc2": "N02",
+      "description": "OPIOIDS",
+      "reports": 1273,
+      "tier3_reports": 0,
+      "open_reports": 91
+    },
+    {
+      "atc2": "C10",
+      "description": "LIPID MODIFYING AGENTS, PLAIN",
+      "reports": 1107,
+      "tier3_reports": 0,
+      "open_reports": 67
+    },
+    {
+      "atc2": "N03",
+      "description": "ANTIEPILEPTICS",
+      "reports": 942,
+      "tier3_reports": 0,
+      "open_reports": 75
+    },
+    {
+      "atc2": "L01",
+      "description": "ANTIMETABOLITES",
+      "reports": 752,
+      "tier3_reports": 11,
+      "open_reports": 64
+    },
+    {
+      "atc2": "G04",
+      "description": "OTHER UROLOGICALS, INCL ANTISPASMODICS",
+      "reports": 714,
+      "tier3_reports": 0,
+      "open_reports": 50
+    },
+    {
+      "atc2": "S01",
+      "description": "ANTIGLAUCOMA PREPARATIONS AND MIOTICS",
+      "reports": 711,
+      "tier3_reports": 0,
+      "open_reports": 76
+    },
+    {
+      "atc2": "A02",
+      "description": "DRUGS FOR PEPTIC ULCER AND GASTROESOPHAGEAL REFLUX DISEASE (GERD)",
+      "reports": 648,
+      "tier3_reports": 0,
+      "open_reports": 71
+    },
+    {
+      "atc2": "D07",
+      "description": "CORTICOSTEROIDS, PLAIN",
+      "reports": 581,
+      "tier3_reports": 0,
+      "open_reports": 28
+    },
+    {
+      "atc2": "A10",
+      "description": "BLOOD GLUCOSE LOWERING DRUGS, EXCL. INSULINS",
+      "reports": 559,
+      "tier3_reports": 0,
+      "open_reports": 48
+    },
+    {
+      "atc2": "G03",
+      "description": "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE",
+      "reports": 553,
+      "tier3_reports": 0,
+      "open_reports": 19
+    },
+    {
+      "atc2": "C07",
+      "description": "BETA BLOCKING AGENTS",
+      "reports": 520,
+      "tier3_reports": 0,
+      "open_reports": 38
+    },
+    {
+      "atc2": "B05",
+      "description": "I.V. SOLUTION ADDITIVES",
+      "reports": 496,
+      "tier3_reports": 0,
+      "open_reports": 20
+    },
+    {
+      "atc2": "M01",
+      "description": "ANTIINFLAMMATORY/ANTIRHEUMATIC PROD.,NON-STEROIDS",
+      "reports": 493,
+      "tier3_reports": 0,
+      "open_reports": 21
+    },
+    {
+      "atc2": "R03",
+      "description": "OTHER DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES, INHALANTS",
+      "reports": 464,
+      "tier3_reports": 15,
+      "open_reports": 39
+    },
+    {
+      "atc2": "B01",
+      "description": "ANTITHROMBOTIC AGENTS",
+      "reports": 462,
+      "tier3_reports": 0,
+      "open_reports": 28
+    },
+    {
+      "atc2": "N01",
+      "description": "ANESTHETICS, LOCAL",
+      "reports": 400,
+      "tier3_reports": 6,
+      "open_reports": 22
+    },
+    {
+      "atc2": "C08",
+      "description": "SELECTIVE CALC.CHANNEL BLOCK. W/DIRECT CARDIAC EFF",
+      "reports": 390,
+      "tier3_reports": 0,
+      "open_reports": 24
+    },
+    {
+      "atc2": "J05",
+      "description": "DIRECT ACTING ANTIVIRALS",
+      "reports": 390,
+      "tier3_reports": 1,
+      "open_reports": 31
+    },
+    {
+      "atc2": "C01",
+      "description": "ANTIARRHYTHMICS, CLASS I AND III",
+      "reports": 353,
+      "tier3_reports": 2,
+      "open_reports": 21
+    },
+    {
+      "atc2": "N04",
+      "description": "DOPAMINERGIC AGENTS",
+      "reports": 334,
+      "tier3_reports": 0,
+      "open_reports": 21
+    },
+    {
+      "atc2": "L04",
+      "description": "IMMUNOSUPPRESSANTS",
+      "reports": 276,
+      "tier3_reports": 0,
+      "open_reports": 21
+    },
+    {
+      "atc2": "N07",
+      "description": "DRUGS USED IN ADDICTIVE DISORDERS",
+      "reports": 246,
+      "tier3_reports": 0,
+      "open_reports": 14
+    },
+    {
+      "atc2": "C03",
+      "description": "HIGH-CEILING DIURETICS",
+      "reports": 226,
+      "tier3_reports": 7,
+      "open_reports": 35
+    },
+    {
+      "atc2": "V03",
+      "description": "ALL OTHER THERAPEUTIC PRODUCTS",
+      "reports": 209,
+      "tier3_reports": 1,
+      "open_reports": 9
+    },
+    {
+      "atc2": "M05",
+      "description": "DRUGS AFFECTING BONE STRUCTURE AND MINERALIZATION",
+      "reports": 208,
+      "tier3_reports": 0,
+      "open_reports": 15
+    },
+    {
+      "atc2": "H02",
+      "description": "CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN",
+      "reports": 202,
+      "tier3_reports": 0,
+      "open_reports": 12
+    }
+  ]
+}

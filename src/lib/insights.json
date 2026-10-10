@@ -1,0 +1,35 @@
+{
+  "vintage": "Monthly bulk extract archived 2025-12-20 (source: drugshortagescanada.ca, now healthproductshortages.ca); reference date 2025-12-01",
+  "total_shortage_reports": 24377,
+  "total_discontinuation_reports": 3221,
+  "open_shortages": 1742,
+  "open_actual": 1709,
+  "open_anticipated": 33,
+  "resolved": 21945,
+  "avoided": 690,
+  "tier3_total": 59,
+  "tier3_open": 24,
+  "tier3_by_year": {
+    "2022": 4,
+    "2023": 6,
+    "2024": 21,
+    "2025": 28
+  },
+  "tier3_top3_share": 0.4915,
+  "tier3_top5_share": 0.5932,
+  "tier3_top3_companies": [
+    "TEVA CANADA LIMITED",
+    "PFIZER CANADA ULC",
+    "PHARMASCIENCE INC"
+  ],
+  "companies_total": 239,
+  "median_resolved_duration_days": 58.0,
+  "mean_resolved_duration_days": 140.2,
+  "resolved_with_duration": 20347,
+  "open_median_days_running": 646.5,
+  "longest_resolved_days": 5685,
+  "date_range": {
+    "first_start": "2002-01-01",
+    "last_updated": "2025-12-01"
+  }
+}

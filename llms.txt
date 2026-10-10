@@ -1,0 +1,30 @@
+# Drug Shortages, Ranked (llms.txt)
+
+## Summary
+An open-source EN/FR web project that normalizes Canada's drug shortage registry (24,377 shortage reports, 3,221 discontinuation reports) and ranks companies and drug classes by chronicity. Source: Health Product Shortages Canada monthly bulk extract, archived 2025-12-20, reference date 2025-12-01. Planned domain: shortages.canada.nshipyard.com. Not affiliated with the Government of Canada or Health Canada.
+
+## Headline findings (all from src/lib/insights.json)
+- 59 Tier 3 reports total, 24 still open. Tier 3 = critical shortages assigned by a federal-provincial Tier Assignment Committee.
+- Tier 3 concentration: Teva Canada (13), Pfizer Canada ULC (9), Pharmascience (7). Top 3 = 49.2% of 59. Top 5 = 59.3%.
+- Tier 3 by year (Date Created): 2022: 4, 2023: 6, 2024: 21, 2025: 28. Caveat: the Tier 3 flag first appears in this dataset in 2022, matching when the current committee process was formalized.
+- Report volume: Apotex 3,633, Teva Canada 3,077, Sandoz 2,261. Volume alone does not mean chronic.
+- Durations: median resolved 58 days, mean 140.2 days (20,347 resolved with computable duration). Longest 5,685 days (15.6 years). Open shortages median running 646.5 days.
+- ATC leaders: N nervous system 6,785 reports (13 Tier 3). C cardiovascular 5,082 (9 Tier 3). R respiratory 744 (15 Tier 3, highest critical count and share). L antineoplastic/immunomodulating 1,249 (13 Tier 3). J antiinfectives 2,072 (4 Tier 3).
+- Status split: 1,742 open (1,709 actual + 33 anticipated), 21,945 resolved, 690 avoided.
+- 239 canonical companies after 16 logged merges. 25 rows quarantined (end before start). 21 reports no company name. 96 no ATC code. 4 no DIN. 0001-01-01 placeholders treated as missing.
+- Context: Health Canada's drug supply notices page (canada.ca, checked 2026-10-10) lists 6 active notices. Recently resolved spironolactone/Aldactone (2026-08-05) matches the Tier 3 C03DA cluster (7 reports), and resolved salbutamol nebules/inhalers (2026-05-06) match the Tier 3 R03AC/R03BB respiratory cluster (13 reports).
+
+## Data files
+- src/lib/reports.json: 24,377 normalized shortage reports (fields: report_id, din, brand_name, company_canonical, status, atc_code, atc1, atc2, actual_start, actual_end, duration_days, is_open, tier3, ...)
+- src/lib/insights.json: headline aggregates
+- src/lib/companies.json: 239 companies (reports, tier3_reports, open_reports, shortage_days, median_duration_days) plus tier3 ranking plus discontinuations_top10
+- src/lib/atc.json: atc1 level-1 classes and atc2_top30 level-2 classes
+- src/lib/trends.json: quarterly new-report series 2020-Q1 to 2025-Q4 (tier3_new, all_new)
+- public/data/shortages_clean.csv, discontinuations_clean.csv, company_merges.json, quarantine.json
+
+## API
+- GET /api/v1/summary, /api/v1/shortages/search (q, company, atc1, tier3, status, page, limit<=100), /api/v1/companies (sort=tier3|reports|days), /api/v1/companies/tier3, /api/v1/trends, /api/v1/atc, /api/openapi.json (OpenAPI 3.1)
+- POST /mcp (streamable HTTP): shortage_lookup (report_id or din), company_ranking (sort), tier3_trend, atc_breakdown
+
+## Limits to state when citing
+- Report-level, not patient-level. Self-reported by companies. Open reports may be stale. "Resolved" can mean ended or avoided. Tier 3 history starts 2022. Discontinuations separate. Reports missing company (21) or ATC (96) counted in totals, excluded from rankings.

@@ -1,0 +1,200 @@
+[
+  {
+    "canonical": "ALK ABELLO A/S",
+    "merged_variants": [
+      "ALK ABELLO A/S",
+      "ALK-ABELLO INC"
+    ],
+    "row_counts": {
+      "ALK ABELLO A/S": 12,
+      "ALK-ABELLO INC": 7
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "ALLERGAN INC",
+    "merged_variants": [
+      "ALLERGAN INC",
+      "ALLERGAN PHARMA CO."
+    ],
+    "row_counts": {
+      "ALLERGAN INC": 126,
+      "ALLERGAN PHARMA CO.": 6
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "AVIR PHARMA INC.",
+    "merged_variants": [
+      "AVIR PHARMA INC",
+      "AVIR PHARMA INC."
+    ],
+    "row_counts": {
+      "AVIR PHARMA INC": 2,
+      "AVIR PHARMA INC.": 13
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "DR REDDY'S LABORATORIES LTD",
+    "merged_variants": [
+      "DR REDDY'S LABORATORIES INC",
+      "DR REDDY'S LABORATORIES LTD",
+      "DR REDDYS LABORATORIES LTD",
+      "DR. REDDY'S LABORATORIES CANADA INC.",
+      "DR. REDDY'S LABORATORIES INC"
+    ],
+    "row_counts": {
+      "DR REDDY'S LABORATORIES INC": 1,
+      "DR REDDY'S LABORATORIES LTD": 18,
+      "DR REDDYS LABORATORIES LTD": 9,
+      "DR. REDDY'S LABORATORIES CANADA INC.": 1,
+      "DR. REDDY'S LABORATORIES INC": 2
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "EMD SERONO, A DIVISION OF EMD INC., CANADA",
+    "merged_variants": [
+      "EMD SERONO A DIVISION OF EMD INC CANADA",
+      "EMD SERONO, A DIVISION OF EMD INC., CANADA"
+    ],
+    "row_counts": {
+      "EMD SERONO A DIVISION OF EMD INC CANADA": 13,
+      "EMD SERONO, A DIVISION OF EMD INC., CANADA": 16
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "ENDO VENTURES LTD",
+    "merged_variants": [
+      "ENDO VENTURES LTD",
+      "ENDO VENTURES LTD."
+    ],
+    "row_counts": {
+      "ENDO VENTURES LTD": 14,
+      "ENDO VENTURES LTD.": 11
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "GENMED A DIVISION OF PFIZER CANADA INC",
+    "merged_variants": [
+      "GENMED A DIVISION OF PFIZER CANADA INC",
+      "GENMED A DIVISION OF PFIZER CANADA ULC"
+    ],
+    "row_counts": {
+      "GENMED A DIVISION OF PFIZER CANADA INC": 27,
+      "GENMED A DIVISION OF PFIZER CANADA ULC": 13
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "HOSPIRA HEALTHCARE CORPORATION",
+    "merged_variants": [
+      "HOSPIRA HEALTHCARE CORPORATION",
+      "HOSPIRA HEALTHCARE ULC"
+    ],
+    "row_counts": {
+      "HOSPIRA HEALTHCARE CORPORATION": 97,
+      "HOSPIRA HEALTHCARE ULC": 10
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "JUBILANT DRAXIMAGE INC",
+    "merged_variants": [
+      "JUBILANT DRAXIMAGE INC",
+      "JUBILANT DRAXIMAGE INC. DBA JUBILANT RADIOPHARMA"
+    ],
+    "row_counts": {
+      "JUBILANT DRAXIMAGE INC": 7,
+      "JUBILANT DRAXIMAGE INC. DBA JUBILANT RADIOPHARMA": 7
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "LABORATOIRE RIVA INC",
+    "merged_variants": [
+      "LABORATOIRE RIVA INC",
+      "LABORATOIRE RIVA INC."
+    ],
+    "row_counts": {
+      "LABORATOIRE RIVA INC": 81,
+      "LABORATOIRE RIVA INC.": 31
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "OMEGA LABORATORIES LIMITED",
+    "merged_variants": [
+      "OMEGA LABORATORIES LIMITED",
+      "OMEGA LABORATORIES LTD"
+    ],
+    "row_counts": {
+      "OMEGA LABORATORIES LIMITED": 213,
+      "OMEGA LABORATORIES LTD": 149
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "PALADIN LABS INC",
+    "merged_variants": [
+      "PALADIN LABS INC",
+      "PALADIN LABS INC."
+    ],
+    "row_counts": {
+      "PALADIN LABS INC": 96,
+      "PALADIN LABS INC.": 60
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "PENDOPHARM DIVISION OF PHARMASCIENCE INC",
+    "merged_variants": [
+      "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC",
+      "PENDOPHARM DIVISION OF PHARMASCIENCE INC"
+    ],
+    "row_counts": {
+      "PENDOPHARM DIVISION OF DE PHARMASCIENCE INC": 77,
+      "PENDOPHARM DIVISION OF PHARMASCIENCE INC": 84
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "STERINOVA INC",
+    "merged_variants": [
+      "STERINOVA INC",
+      "STERINOVA INC."
+    ],
+    "row_counts": {
+      "STERINOVA INC": 2,
+      "STERINOVA INC.": 2
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "TEVA WOMEN'S HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC",
+    "merged_variants": [
+      "TEVA WOMEN'S HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC",
+      "TEVA WOMENS HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC"
+    ],
+    "row_counts": {
+      "TEVA WOMEN'S HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC": 2,
+      "TEVA WOMENS HEALTH INC. SUBSIDIARY OF TEVA PHARMACEUTICALS USA INC": 2
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  },
+  {
+    "canonical": "WOCKHARDT UK LIMITED",
+    "merged_variants": [
+      "WOCKHARDT UK LIMITED",
+      "WOCKHARDT UK LTD"
+    ],
+    "row_counts": {
+      "WOCKHARDT UK LIMITED": 3,
+      "WOCKHARDT UK LTD": 1
+    },
+    "rule": "near-identical string, punctuation/legal-suffix/apostrophe variant only"
+  }
+]

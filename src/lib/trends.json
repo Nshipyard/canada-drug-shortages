@@ -1,0 +1,134 @@
+{
+  "quarterly": [
+    {
+      "quarter": "2020-Q1",
+      "tier3_new": 0,
+      "all_new": 680
+    },
+    {
+      "quarter": "2020-Q2",
+      "tier3_new": 0,
+      "all_new": 628
+    },
+    {
+      "quarter": "2020-Q3",
+      "tier3_new": 0,
+      "all_new": 546
+    },
+    {
+      "quarter": "2020-Q4",
+      "tier3_new": 0,
+      "all_new": 469
+    },
+    {
+      "quarter": "2021-Q1",
+      "tier3_new": 0,
+      "all_new": 535
+    },
+    {
+      "quarter": "2021-Q2",
+      "tier3_new": 0,
+      "all_new": 462
+    },
+    {
+      "quarter": "2021-Q3",
+      "tier3_new": 0,
+      "all_new": 417
+    },
+    {
+      "quarter": "2021-Q4",
+      "tier3_new": 0,
+      "all_new": 461
+    },
+    {
+      "quarter": "2022-Q1",
+      "tier3_new": 1,
+      "all_new": 554
+    },
+    {
+      "quarter": "2022-Q2",
+      "tier3_new": 0,
+      "all_new": 592
+    },
+    {
+      "quarter": "2022-Q3",
+      "tier3_new": 0,
+      "all_new": 588
+    },
+    {
+      "quarter": "2022-Q4",
+      "tier3_new": 2,
+      "all_new": 753
+    },
+    {
+      "quarter": "2023-Q1",
+      "tier3_new": 0,
+      "all_new": 664
+    },
+    {
+      "quarter": "2023-Q2",
+      "tier3_new": 0,
+      "all_new": 801
+    },
+    {
+      "quarter": "2023-Q3",
+      "tier3_new": 2,
+      "all_new": 689
+    },
+    {
+      "quarter": "2023-Q4",
+      "tier3_new": 2,
+      "all_new": 691
+    },
+    {
+      "quarter": "2024-Q1",
+      "tier3_new": 3,
+      "all_new": 749
+    },
+    {
+      "quarter": "2024-Q2",
+      "tier3_new": 3,
+      "all_new": 618
+    },
+    {
+      "quarter": "2024-Q3",
+      "tier3_new": 4,
+      "all_new": 611
+    },
+    {
+      "quarter": "2024-Q4",
+      "tier3_new": 5,
+      "all_new": 618
+    },
+    {
+      "quarter": "2025-Q1",
+      "tier3_new": 8,
+      "all_new": 496
+    },
+    {
+      "quarter": "2025-Q2",
+      "tier3_new": 8,
+      "all_new": 533
+    },
+    {
+      "quarter": "2025-Q3",
+      "tier3_new": 7,
+      "all_new": 496
+    },
+    {
+      "quarter": "2025-Q4",
+      "tier3_new": 3,
+      "all_new": 345
+    },
+    {
+      "quarter": "2026-Q3",
+      "tier3_new": 0,
+      "all_new": 1
+    },
+    {
+      "quarter": "2026-Q4",
+      "tier3_new": 0,
+      "all_new": 1
+    }
+  ]
+}
