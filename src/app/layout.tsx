@@ -8,9 +8,31 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://shortages.canada.nshipyard.com"),
   title: "Drug Shortages, Ranked: 24,377 reports, and the 59 critical ones",
   description:
     "Canada's drug shortage registry normalized and ranked: 24,377 reports across 239 companies, 59 Tier 3 critical shortages (three companies hold 49% of them), median resolved shortage 58 days. Searchable explorer, charts, REST API, OpenAPI docs, and MCP tools. An independent open-source project, not affiliated with the Government of Canada or Health Canada. MIT licensed.",
+  openGraph: {
+    title: "Drug Shortages, Ranked: 24,377 reports, and the 59 critical ones",
+    description:
+      "Canada's drug shortage registry normalized and ranked: 24,377 reports across 239 companies, 59 Tier 3 critical shortages (three companies hold 49% of them), median resolved shortage 58 days.",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Drug Shortages, Ranked: 24,377 reports, and the 59 critical ones",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Drug Shortages, Ranked: 24,377 reports, and the 59 critical ones",
+    description:
+      "Canada's drug shortage registry normalized and ranked: 24,377 reports across 239 companies, 59 Tier 3 critical shortages (three companies hold 49% of them), median resolved shortage 58 days.",
+    images: ["/og-image.png"],
+  },
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
